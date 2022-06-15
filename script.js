@@ -21,7 +21,7 @@ function plant(genes, stats) {
     //chromos is the number of chromosomes a plant has
     this.randomDNA = (chromos = 5) => {
         this.genes = new Array(Math.ceil(Math.random() * chromos)).fill(null)
-        .map(() => new Array(10).fill(null).map((x) => x = random(4)))
+        .map(() => new Array(10).fill(null).map((x) => x = ran(4)))
     }
 }
 
