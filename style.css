@@ -31,7 +31,7 @@ body {
     font-size: 18px;
     margin-left: 100px;
     margin-right: 0px;
-    width: 200px;
+    width: 400px;
 }
 
 #day {
@@ -41,7 +41,7 @@ body {
     margin-bottom: 10px;
 }
 
-#start {
+#pause {
     width: 100px;
     height: 60px;
     font-family: 'digi_disco';
@@ -52,7 +52,7 @@ body {
     border-radius: 4px;
 }
 
-#start:hover {
+#pause:hover {
     background-color: white;
     color: black;
     border: 2px;
