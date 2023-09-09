@@ -1,4 +1,4 @@
 # chlorofield
-A small evolution simulation.
+A small plant life evolution simulator.
 
-Natural selection can be observerd in this finite grid populated by plants.
+Observe natural selection.
